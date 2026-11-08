@@ -41,9 +41,9 @@ The sector is **moderately fragmented** rather than a winner-take-all monopoly: 
 
 ## 💻 Open Source Testing Frameworks
 
-The table below lists battle-tested, open-source performance testing frameworks and CLI benchmark utilities, **sorted in descending order by GitHub stargazers**. Each star count links directly to that repository's stargazers page.
+The table below lists battle-tested, open-source performance testing frameworks and CLI benchmark utilities, **sorted in descending order by GitHub stargazers**. Each Stars_Count links directly to that repository's stargazers page.
 
-| Framework | GitHub Stars | License | Scripting Language | Core Strengths & Protocols |
+| Framework | GitHub_Stars | License | Scripting Language | Core Strengths & Protocols |
 | :--- | :--- | :--- | :--- | :--- |
 | **[wrk](https://github.com/wg/wrk)** | <a href="https://github.com/wg/wrk/stargazers"><img src="https://img.shields.io/github/stars/wg/wrk?style=social&color=white" alt="wrk stars"/></a> | Apache-2.0 | C (Lua scripts) | ⚡ Extreme throughput, multi-threaded event-driven HTTP benchmarking from a single instance. |
 | **[k6](https://github.com/grafana/k6)** | <a href="https://github.com/grafana/k6/stargazers"><img src="https://img.shields.io/github/stars/grafana/k6?style=social&color=white" alt="k6 stars"/></a> | AGPL-3.0 | JavaScript / ES6 (Go core) | 🛠️ Modern developer-first CLI, thresholds, scenarios, and native Grafana/Prometheus metric integrations. |
